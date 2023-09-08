@@ -1,4 +1,4 @@
-# World Happiness Report Analysis
+# Exploring Global Happiness
 
 ## Tableau Storyboard
 https://public.tableau.com/app/profile/andrew5395/viz/WorldHappinessReport_16936795111390/Story1
