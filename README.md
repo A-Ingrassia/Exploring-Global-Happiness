@@ -50,12 +50,19 @@ The primary objectives of this project, guided by the initial research objective
 ## Data
 Data is listed according to the order in which it was either used or created. 
 
-- **2015_whr1.csv - 2023_whr1.csv:** Original data pulled directly from the WHR website
+- **2015_whr1.csv - 2023_whr1.csv:** Original data pulled directly from the WHR website (one for each year)
 - **whr_combined_whr1.csv:** Cleaned/Wrangled and combined version of the original 9 dataframes
 - **whr_df_whr2.csv:** "whr_combined_whr1.csv" with the addition of class columns
 - **countries.geojson:** Unmodified geojson file containing country data
 - **simplified_geojson.geojson:** Simplified version of "countries.geojson" (original version was too large)
-- **country_geo.json:** Modified version of "simplified_geojson.geojson" used to create the choropleth map in WHR3 (country name discrepancies resolved)
+- **country_geo.json:** Data used to create the choropleth map in WHR3 (country name discrepancies resolved)
 - **df_data_whr3.csv:** Dataframe containing country names shared by WHR data and "country_geo.json" (discrepancies resolved) as well as happiness scores and years
-- **
-- 
+- **standardized_df_whr4.csv:** Dataframe containing standardized versions of key variables (pulled from "whr_df_whr2.csv")
+- **heatmap_df_whr4.csv:** Dataframe created in order to produce the heatmap in WHR4
+- **regression_df_whr4.csv:** Dataframe containing actual vs predicted happiness scores
+- **standardizied_df_modified_whr5.csv:** Data used to produce WHR5 cluster scatterplots
+- **df_clusters_whr5.csv:** Dataframe created to identify the country/year combinations associated with each cluster
+- **df_stats_whr5.csv:** Dataframe containing descriptive statistics for each cluster
+- **merged_data_whr6.csv:** Dataframe used to produce the WHR6 line plots comparing average yearly happiness scores between clusters
+- **merged_data_stationary_whr6.csv:** Stationarized version of "merged_data_whr6.csv" (created to check autocorrelations)
+
