@@ -1,5 +1,8 @@
 # World Happiness Report Analysis
 
+## Tableau Storyboard
+https://public.tableau.com/app/profile/andrew5395/viz/WorldHappinessReport_16936795111390/Story1
+
 ## Overview
 This repository contains the analysis and visualization of the World Happiness Report (WHR) data. The WHR is an annual publication that ranks countries based on various factors contributing to overall happiness and well-being. This project aims to explore the data, identify patterns, and draw insights into the key variables affecting happiness scores.
 
@@ -39,3 +42,7 @@ The primary objectives of this project, guided by the initial research objective
 - Interpretation of Explained Variance Ratios (EVRs)
 - Model Evaluation and Result Visualization
 - Geospatial Analysis
+
+## Sources
+- World Happiness Report Data: https://worldhappiness.report/archive/
+- GeoJSON Data: https://datahub.io/core/geo-countries#python
