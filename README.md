@@ -46,3 +46,16 @@ The primary objectives of this project, guided by the initial research objective
 ## Sources
 - World Happiness Report Data: https://worldhappiness.report/archive/
 - GeoJSON Data: https://datahub.io/core/geo-countries#python
+
+## Data
+Data is listed according to the order in which it was either used or created. 
+
+- **2015_whr1.csv - 2023_whr1.csv:** Original data pulled directly from the WHR website
+- **whr_combined_whr1.csv:** Cleaned/Wrangled and combined version of the original 9 dataframes
+- **whr_df_whr2.csv:** "whr_combined_whr1.csv" with the addition of class columns
+- **countries.geojson:** Unmodified geojson file containing country data
+- **simplified_geojson.geojson:** Simplified version of "countries.geojson" (original version was too large)
+- **country_geo.json:** Modified version of "simplified_geojson.geojson" used to create the choropleth map in WHR3 (country name discrepancies resolved)
+- **df_data_whr3.csv:** Dataframe containing country names shared by WHR data and "country_geo.json" (discrepancies resolved) as well as happiness scores and years
+- **
+- 
