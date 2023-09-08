@@ -21,7 +21,7 @@ The primary objectives of this project, guided by the initial research objective
 ## Tools
 **Language**: Python
 
-**Libraries**: Pandas, Numpy, Seaborn, Plotly, Matplotlib, Scipy, sykit-learn, and statsmodels
+**Libraries**: Pandas, Numpy, Seaborn, Plotly, Matplotlib, Scipy, sykit-learn, statsmodels, and geopandas
 
 **Software**: Jupyter Notebooks, Excel, and Tableau
 
