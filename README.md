@@ -38,3 +38,4 @@ The primary objectives of this project, guided by the initial research objective
 - Statistical Testing (Dickey-Fuller Test)
 - Interpretation of Explained Variance Ratios (EVRs)
 - Model Evaluation and Result Visualization
+- Geospatial Analysis
