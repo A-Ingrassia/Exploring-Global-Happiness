@@ -1,7 +1,7 @@
 # Exploring Global Happiness
 
 ## Presentations
-[Tableau Storyboard](https://public.tableau.com/app/profile/andrew5395/viz/WorldHappinessReport_16936795111390/Story1)
+[Storyboard](https://public.tableau.com/app/profile/andrew5395/viz/WorldHappinessReport_16936795111390/Story1) (Tableau)
 
 [Case Study](https://github.com/A-Ingrassia/Exploring-Global-Happiness/blob/main/WHR%20Case%20Study.pdf) (PowerPoint)
 
