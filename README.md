@@ -3,7 +3,7 @@
 ## Presentations
 [Tableau Storyboard](https://public.tableau.com/app/profile/andrew5395/viz/WorldHappinessReport_16936795111390/Story1)
 
-[Case Study](https://github.com/A-Ingrassia/Exploring-Global-Happiness/blob/main/WHR%20Case%20Study.pdf)
+[Case Study](https://github.com/A-Ingrassia/Exploring-Global-Happiness/blob/main/WHR%20Case%20Study.pdf) (PowerPoint)
 
 ## Overview
 This repository contains the analysis and visualization of the World Happiness Report (WHR) data. The WHR is an annual publication that ranks countries based on various factors contributing to overall happiness and well-being. This project aims to explore the data, identify patterns, and draw insights into the key variables affecting happiness scores.
